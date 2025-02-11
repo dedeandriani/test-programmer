@@ -8,8 +8,14 @@
 
 ## Setup
 1. Clone or download repository
+```sh
+git clone https://github.com/dedeandriani/test-programmer.git
+```
 
 2. CD into project folder
+```sh
+cd test-programmer
+```
 
 3. Install Laravel dependency
 ```sh
